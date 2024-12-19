@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "role": "Web Developer",
+    "imageSrc": "company/Webde.jpg"
+   
+  },
+  {
+    "id": 2,
+    "role": "Backend Developer",
+    "imageSrc": "company/Bacc.jpg"
+   
+  },
+  {
+    "id": 3,
+    "role": "React Developer",
+   
+    "imageSrc": "company/react.png"
+  }
+]
